@@ -1,5 +1,5 @@
 {
-  "name": "fastreload",
+  "name": "@alikilicoglu/fastreload",
   "version": "1.0.0",
   "description": "A nodemon alternative",
   "main": "index.js",
@@ -16,5 +16,16 @@
     "chokidar": "^3.5.2",
     "express": "^4.17.1",
     "path": "^0.12.7"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliKilicoglu/fastreload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AliKilicoglu/fastreload/issues"
+  },
+  "homepage": "https://github.com/AliKilicoglu/fastreload#readme"
 }
