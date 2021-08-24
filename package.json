@@ -1,6 +1,6 @@
 {
   "name": "@alikilicoglu/fastreload",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A nodemon alternative",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.5.2",
-    "express": "^4.17.1",
     "path": "^0.12.7"
   },
   "directories": {
